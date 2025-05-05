@@ -31,20 +31,20 @@
 /Backend-Java-SpringBoot/.env
 
 # ========== FRONTEND (React) ==========
-/Frontend-React/node_modules/
-/Frontend-React/build/
-/Frontend-React/.pnp
-/Frontend-React/.pnp.js
-/Frontend-React/.DS_Store
-/Frontend-React/.env
-/Frontend-React/.env.local
-/Frontend-React/.env.development.local
-/Frontend-React/.env.test.local
-/Frontend-React/.env.production.local
-/Frontend-React/npm-debug.log*
-/Frontend-React/yarn-debug.log*
-/Frontend-React/yarn-error.log*
-/Frontend-React/coverage
+/FrontendReact/node_modules/
+/FrontendReact/build/
+/FrontendReact/.pnp
+/FrontendReact/.pnp.js
+/FrontendReact/.DS_Store
+/FrontendReact/.env
+/FrontendReact/.env.local
+/FrontendReact/.env.development.local
+/FrontendReact/.env.test.local
+/FrontendReact/.env.production.local
+/FrontendReact/npm-debug.log*
+/FrontendReact/yarn-debug.log*
+/FrontendReact/yarn-error.log*
+/FrontendReact/coverage
 
 # ========== GENERAL ==========
 .DS_Store
